@@ -1,1 +1,1 @@
-# FW-DATA
+# fw-phuket.github.io
